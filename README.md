@@ -1,6 +1,6 @@
 # clase_03
 ## Lambda y aplicación en colecciones
-[!Clase 3](./recursos/caratulas_java_03.jpg)
+![Clase 3](./recursos/caratulas_java_03.jpg)
 ## EJERCICIO 1
 Implemente un método que reciba como parámetro una lista de strings y devuelva una nueva
 lista con los strings en mayúscula.
